@@ -36,7 +36,7 @@
     <string name="error_message">Something went wrong</string>
     <string name="enter_convert_value">Enter a value to convert</string>
 
-    <string name="fixerio_access_key">40de9c4812a9c55722007a79e2048639</string>
+    <string name="fixerio_access_key">YOUR_FIXERIO_ACCESS_KEY</string>
 
     <string-array name="currency_codes">
         <item>AED</item>
