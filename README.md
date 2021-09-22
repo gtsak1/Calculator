@@ -5,4 +5,5 @@ Arithmetic operations are made using MathParser library: http://mathparser.org/m
 Currency Converter follows MVP architecture and exchange rates are requested from FixerIO using Volley android library.
 
 
-![Webp net-resizeimage](https://user-images.githubusercontent.com/58042128/134429881-840e827b-f012-47ff-965e-3232a8244778.jpg)
+![Webp net-resizeimages](https://user-images.githubusercontent.com/58042128/134430395-9fde7299-53be-4902-b308-ce537f357648.jpg)
+![Webp net-resizeimage](https://user-images.githubusercontent.com/58042128/134430410-96a8e0f7-ae0d-46ce-ad79-4b2d7cd26da7.jpg)
