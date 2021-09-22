@@ -9,5 +9,6 @@ Screenshots:
 
 
 
-https://user-images.githubusercontent.com/58042128/134428313-7825bdf7-c6fd-4656-ae5d-e6cf0570bc94.mp4
+https://user-images.githubusercontent.com/58042128/134428313-7825bdf7-c6fd-4656-ae5d-e6cf0570bc94.mp4 ![Screenshot_20210923-010835_Calculator](https://user-images.githubusercontent.com/58042128/134429020-92775c48-7ab4-4fbe-8820-1baaec8f4a1a.jpg)
+
 
